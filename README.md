@@ -63,8 +63,7 @@ Submission Method
 ------------------------------------------------------------
 - All files (screenshots, reports, videos, presentations) are uploaded to GitHub repository as per instructions.
 
-GitHub Repository Link:
-[](https://github.com/cb346666/Ethical-Hacking-Internship-2025.git)
+GitHub Repository Link: https://github.com/cb346666/Ethical-Hacking-Internship-2025.git
 
 ------------------------------------------------------------
 Prepared By:
